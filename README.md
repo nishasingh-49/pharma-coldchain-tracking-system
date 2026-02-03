@@ -1,8 +1,8 @@
 # PHARMA COLDCHAIN TRACKING SYSTEM
 ->Medicines like vaccines and biologics are extremely sensitive to temperature. Even a small mistake during storage or transport can make them unsafe to use. This project was built to make sure that doesn’t happen.
 <br>
-->The Pharma Cold Chain Tracking System keeps track of medicines as they move from the manufacturer to the end user. It continuously monitors temperature and location and records this data in a secure, tamper proof way using blockchain. Once data is stored, it can’t be altered—so everyone involved can trust what they see.
+->The Pharma Cold Chain Tracking System keeps track of medicines as they move from the manufacturer to the end user. It continuously monitors temperature and location and records this data in a secure, tamper proof way using blockchain. Once data is stored, it can’t be altered so everyone involved can trust what they see.
 <br>
-->The system also uses smart contracts to automatically check whether medicines are handled within safe temperature limits. If something goes wrong—like a temperature spike during transport—it sends instant alerts so action can be taken before the medicine is damaged.
+->The system also uses smart contracts to automatically check whether medicines are handled within safe temperature limits. If something goes wrong like a temperature spike during transport it sends instant alerts so action can be taken before the medicine is damaged.
 <br>
 ->Overall, this project aims to bring transparency, accountability, and trust into the pharmaceutical supply chain, helping ensure that patients receive medicines that are safe, effective, and uncompromised.
